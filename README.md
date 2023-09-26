@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">I'm a Computer & Science Engineering student in my senior year at the University of California, Merced. I'm currently learning many frameworks, technologies, and languages essential to web development and working on machine learning research!</h3>
-- 🔭 I’m currently working on [The Odin Project (TOP)](https://www.theodinproject.com/)
+- 🔭 I’m currently working on a Data Clean-up Tool
 - & Machine Learning research!
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, MongaDB, ExpressJS, NodeJS**
