@@ -12,15 +12,16 @@
 - 🤖 Conducting next-level **Machine Learning Research** on **Synthetic Aperture Radar (SAR)**
 
 ---
+<div align="center">
 
-## 📚 On My Learning Path 🛣️
+  ## 🛠️ Skills & Technologies
 
-- **Front-End**: HTML, CSS, JavaScript, React
-- **Back-End**: MongoDB, ExpressJS, NodeJS
-- 🐍 **Advanced Python Skills**: Automation, Web Scraping, Data Manipulation
-- 📈 **Data Science Skills**: Exploratory Data Analysis, Statistical Modeling
-- 🤖 **Machine Learning Skills**: Neural Networks, Natural Language Processing
-
+  **Languages**: Python, C++, HTML, CSS, JavaScript  
+  **Frameworks**: Flask, ExpressJS, NodeJS, React  
+  **Databases**: MongoDB  
+  **Other Skills**: Git, Tensorflow, Webpack, OOP, RESTful APIs
+  
+</div>
 ---
 
 ## 📬 Let's Connect! 💌
