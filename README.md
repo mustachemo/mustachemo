@@ -1,31 +1,45 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <h1>Hey, I'm Mohamed! 👋</h1>
-  <h3>A Senior at University of California, Merced 🎓, aspiring Machine Learning Engineer 👨‍💻, and a coding wizard 🧙‍♂️</h3>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200">
+  <h1>👋 Hello, World! I'm Mohamed 🌍</h1>
+  <h3>🎓 Senior at UC Merced | 🛠️ Aspiring Machine Learning Engineer | 🧙 Code Magician</h3>
 </div>
 
 ---
 
-🔬 **What I'm working on**: Data Clean-up Tool and cutting-edge Machine Learning Research 🤖  
-📘 **Learning**: HTML, CSS, JavaScript, React, MongoDB, ExpressJS, NodeJS 🔥  
-📬 **Let's talk**: mhasan8880@gmail.com  
-⚡ **Fun facts**: 
-  - Chess grandmaster in the making ♟️  
-  - Gourmet chef at home 🍲
-  - Time traveler to past civilizations 🏛️
-  - Philosopher on weekends 📚
+### 🚀 Current Ventures 🚀
+
+- 🧹 Building a revolutionary **Data Clean-up Tool**
+- 🤖 Conducting next-level **Machine Learning Research**
+
+---
+
+### 📚 On My Learning Path 🛣️
+
+- **Front-End**: HTML, CSS, JavaScript, React
+- **Back-End**: MongoDB, ExpressJS, NodeJS
+
+---
+
+### 📬 Let's Connect! 💌
+
+- **Email**: mhasan8880@gmail.com
+- **LinkedIn**: [Mohamed Hasan](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
+- **Instagram**: [@momomoney0](https://instagram.com/momomoney0)
+
+---
+
+### ⚡ Fun Facts ⚡
+
+- 🏆 Chess Strategist
+- 👨‍🍳 Culinary Master
+- 🕵️‍♂️ History Detective
+- 📖 Weekend Philosopher
+
+---
 
 <div align="center">
 
-  ### Connect with Me 🤝🏻
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hasan-4b850418a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40">
-  </a>
-  <a href="https://instagram.com/momomoney0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40">
-  </a>
-
-  ### 🛠 &nbsp;Tech Stack
+  ## 🛠️ My Toolkit 🧰
 
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
@@ -38,5 +52,6 @@
 
 <div align="center">
 
-  ### 🎉 Life is short, let's code 🎉
+  ## 💥 Let's Build Something Amazing Together! 💥
+
 </div>
