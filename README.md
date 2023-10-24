@@ -1,6 +1,5 @@
 <div align="center">
-<!--   <img src="https://i.gifer.com/6vIk.gif" width="300"> -->
-  <div style="padding-top:74.000%;position:relative;"><iframe src="https://gifer.com/embed/6vIk" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+  <img src="https://i.gifer.com/6vIk.gif" width="300">
   <h1>👋 Hello, World! I'm Mohamed 🌍</h1>
   <h3>🎓 Senior at UC Merced | 🛠️ Aspiring Machine Learning Engineer | 🧙 Code Magician</h3>
 </div>
