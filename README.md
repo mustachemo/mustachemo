@@ -10,7 +10,7 @@
 <div align="center">
   <h3>🚀 Current Ventures 🚀</h3>
   
-  🧹 Building a **Data Clean-up Tool**
+  🧹 Building a **Data Clean-up Tool**  <br>
   🤖 Research on **Synthetic Aperture Radar (SAR)**
   <br>
 </div>
