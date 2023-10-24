@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://i.gifer.com/6vIk.gif" width="300">
   <h1>👋 Hello, World! I'm Mohamed 🌍</h1>
   <h3>🎓 Senior at UC Merced | 🛠️ Aspiring Machine Learning Engineer | 🧙 Code Magician</h3>
 </div>
