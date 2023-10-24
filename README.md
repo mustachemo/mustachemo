@@ -1,5 +1,5 @@
 <div align="center">
-[  <img src="https://i.gifer.com/6vIk.gif" width="300">](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW90ZjJtNDNoaGt6aHc3aHU2bDFrM2s1dHVtZTB0dXc1dDF3dGl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHqZycSplGWWPAI/giphy.gif)
+![Your GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW90ZjJtNDNoaGt6aHc3aHU2bDFrM2s1dHVtZTB0dXc1dDF3dGl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHqZycSplGWWPAI/giphy.gif)
   <h1>👋 Hello, World! I'm Mohamed 🌍</h1>
   <h3>🎓 Senior at UC Merced | 🛠️ Aspiring Machine Learning Engineer | 🧙 Code Magician</h3>
 </div>
