@@ -4,59 +4,19 @@
   <h3>🎓 Senior at UC Merced | 🛠️ Aspiring Machine Learning Engineer and Data Scientist | 🧙 Full-Stack Developer </h3>
 </div>
 
----
-
-## 🚀 Current Ventures 🚀
-
-- 🧹 Building a revolutionary **Data Clean-up Tool**
-- 🤖 Conducting next-level **Machine Learning Research** on **Synthetic Aperture Radar (SAR)**
+<div align="center">
+  ## 🚀 Current Ventures 🚀
+  
+  - 🧹 Building a revolutionary **Data Clean-up Tool**
+  - 🤖 Conducting next-level **Machine Learning Research** on **Synthetic Aperture Radar (SAR)**
+</div>
 
 ---
 <div align="center">
-
   ## 🛠️ Skills & Technologies
 
   **Languages**: Python, C++, HTML, CSS, JavaScript  
-  **Frameworks**: Flask, ExpressJS, NodeJS, React  
-  **Databases**: MongoDB  
-  **Other Skills**: Git, Tensorflow, Webpack, OOP, RESTful APIs
-  
+  **Technologies**: Git, Tensorflow, Flask, Webpack, Node, Express, OOP, RESTful APIs, MongDB, React, Django
 </div>
 ---
-
-## 📬 Let's Connect! 💌
-
-- **Email**: mhasan8880@gmail.com
-- **LinkedIn**: [Mohamed Hasan](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
-
----
-
-## ⚡ Fun Facts ⚡
-
-- 🏆 Chess Lover
-- 👨‍🍳 Chef
-- 🕵️‍♂️ History Lover
-- 📚 Philosophy Enthusiast
-- 📖 Stoic
-
----
-
-<div align="center">
-
-  ## 🛠️ My Toolkit 🧰
-
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <!-- Add more here -->
-
-</div>
-
----
-
-<div align="center">
-
-  ## 💥 Let's Build Something Amazing Together! 💥
-
-</div>
 
