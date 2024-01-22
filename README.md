@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW90ZjJtNDNoaGt6aHc3aHU2bDFrM2s1dHVtZTB0dXc1dDF3dGl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHqZycSplGWWPAI/giphy.gif" width="200">
   <h1>👋 Hello! I'm Mohamed 🌍</h1>
   <p>🎓 <strong>Senior at UC Merced</strong></p>
-  <p>🛠️ <em>Machine Learning Engineer & Data Scientist Aspirant</em></p>
+  <p>🛠️ <em>Full Stack Developer and ML & DS Aspirant!</em></p>
   <p>🧙 <em>Full-Stack Developer</em></p>
   <br>
 </div>
