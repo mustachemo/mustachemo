@@ -8,7 +8,7 @@ linear algebra, calculus, and machine learning. Proficient with data libraries a
 opportunities in data-related roles in a collaborative and challenging environment. Available to start May 20, 2024.
 
 ## 🛠 Skills
-- **Languages**: Proficient in Python and SQL; Intermediate knowledge in C++ and JavaScript.
+- **Languages**: Fluent in Python; Proficient in SQL; Intermediate knowledge in C++, JavaScript, HTML, CSS, React.
 - **Technologies**: Experienced with Pandas, NumPy, TensorFlow, Git, PostgreSQL, Scikit-learn, Keras, SQLite, LaTeX, Flask, Django.
 - **Soft Skills**: Excellent communicator, creative problem-solver, team-oriented, and bilingual in English & Arabic.
 
