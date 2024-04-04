@@ -2,10 +2,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a Machine Learning enthusiast and a soon-to-be graduate with a B.S. in Computer Science and a strong foundation in mathematics, machine learning, and analytics. I'm passionate about creating innovative solutions using data and eagerly awaiting opportunities to dive into challenges starting May 20, 2024.
+Innovative and scientifically rigorous student with a great aptitude for learning, graduating in May 2024 with a B.S. in
+Computer Science and progressing to an M.S. in Computational Analytics at Georgia Tech. Strong foundation in statistics,
+linear algebra, calculus, and machine learning. Proficient with data libraries and machine learning frameworks. Seeking
+opportunities in data-related roles in a collaborative and challenging environment. Available to start May 20, 2024.
 
 ## 🛠 Skills
-
 - **Languages**: Proficient in Python and SQL; Intermediate knowledge in C++ and JavaScript.
 - **Technologies**: Experienced with Pandas, NumPy, TensorFlow, Git, PostgreSQL, Scikit-learn, Keras, SQLite, LaTeX, Flask, Django.
 - **Soft Skills**: Excellent communicator, creative problem-solver, team-oriented, and bilingual in English & Arabic.
