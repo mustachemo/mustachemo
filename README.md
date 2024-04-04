@@ -1,11 +1,12 @@
-# Hi there, I'm Mohamed! 👋
+# Hello, I'm Mohamed!
 
-## 👨‍💻 About Me
+- I am an enthusiastic developer adept at harnessing the power of Machine Learning and Deep Learning to tackle complex problems across a range of domains.
+- With a foundation in Computer Science and practical experience in Machine Learning, I bring a blend of theoretical knowledge and hands-on skills to address real-world challenges.
+- I am deeply invested in fields such as Machine Learning, Data Science, and Web Development, constantly learning and applying new technologies.
+- At present, my focus is on enriching my understanding and proficiency in web development and Machine Learning, contributing to both academic and open-source projects.
+- I am committed to continuous learning and growth, aspiring to synthesize my skills into innovative and impactful solutions.
 
-Innovative and scientifically rigorous student with a great aptitude for learning, graduating in May 2024 with a B.S. in
-Computer Science and progressing to an M.S. in Computational Analytics at Georgia Tech. Strong foundation in statistics,
-linear algebra, calculus, and machine learning. Proficient with data libraries and machine learning frameworks. Seeking
-opportunities in data-related roles in a collaborative and challenging environment. Available to start May 20, 2024.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
 
 ## 🛠 Skills
 - **Languages**: Fluent in Python; Proficient in SQL; Intermediate knowledge in C++, JavaScript, HTML, CSS, React.
