@@ -8,23 +8,26 @@
 - Actively seeking opportunities in data-related roles within collaborative and challenging environments.
 - Availability to start on May 20, 2024.
 
-
-### Skills
-- **Languages**: Fluent in Python; Proficient in SQL; Intermediate knowledge in C++, JavaScript, HTML, CSS, React.
-- **Technologies**: Experienced with Pandas, NumPy, TensorFlow, Git, PostgreSQL, Scikit-learn, Keras, SQLite, LaTeX, Flask, Django.
-- **Soft Skills**: Excellent communicator, creative problem-solver, team-oriented, and bilingual in English & Arabic.
-
+---
 ### Education
 
 - **M.Sc. in Analytics** - Specializing in Computational Data at Georgia Institute of Technology (Start Aug 2024)
 - **B.Sc. in Computer Science & Engineering** - University of California, Merced (Expected May 2024)
 
+---
 ### Experience
 
 - **Machine Learning Researcher** at UC Merced, Applied Math Department. (current)
 - **Backend Developer** for HackMerced.
 - **Software Engineering Intern** at NeuroLeap Co.
 
+---
+### Skills
+- **Languages**: Fluent in Python; Proficient in SQL; Intermediate knowledge in C++, JavaScript, HTML, CSS, React.
+- **Technologies**: Experienced with Pandas, NumPy, TensorFlow, Git, PostgreSQL, Scikit-learn, Keras, SQLite, LaTeX, Flask, Django.
+- **Soft Skills**: Excellent communicator, creative problem-solver, team-oriented, and bilingual in English & Arabic.
+
+---
 ### Projects
 
 | Project                          | Description                                                              | Repo              |
