@@ -25,6 +25,15 @@ opportunities in data-related roles in a collaborative and challenging environme
 
 ## 🚀 Projects
 
+| Project                          | Description                                                              | Repo              |
+| -------------------------------- | ------------------------------------------------------------------------ | ----------------- |
+| [Data Runner](#https://github.com/mustachemo/data-runner)                    | A Python-Pandas-based tool for facilitating data migration            | [GitHub](https://github.com/mustachemo/data-runner)       |
+| [Amazing Bard Prompts](#)        | Includes curated Google Bard prompts for enhanced utilization.           | [GitHub](#)       |
+| [ExceptNotifier](#)              | Enriches try-except with comprehensive error messages.                   | [GitHub](#)       |
+
+
+## 🚀 Projects
+
 - [Data Runner](https://github.com/mustachemo/data-runner) - A Python-Pandas-based tool for facilitating data migration with an emphasis on data integrity..
 - [Destination Manager](https://github.com/mustachemo/destination-manager) - A management system to simplify vacation ideas, a tripadvisor miniclone!
 - [NASA Projects Dashboard](https://github.com/mustachemo/NASA-projects-dashboard) - An interactive dashboard showcasing various NASA projects for the open-science competition.
