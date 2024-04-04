@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Mohamed! 👋
 
 ## 👨‍💻 About Me
 
@@ -24,11 +24,6 @@ I'm a Machine Learning enthusiast and a soon-to-be graduate with a B.S. in Compu
 ## 🚀 Projects
 
 - **Comprehensive and Integrity-Conscious Data Clean-up Application**: A tool designed with Python, Pandas, Flask, and Dash for seamless data migration and management.
-
-## 🏅 Achievements
-
-- Co-authored a paper on Synthetic Aperture Imaging using Convolutional Neural Networks.
-- Awarded the DeepLearning.AI TensorFlow Developer Professional Certificate.
 
 ## 🤝 Connect with Me
 
