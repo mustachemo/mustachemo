@@ -1,4 +1,5 @@
-# Hello, I'm Mohamed!
+## Hello, I'm Mohamed!  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
+
 
 - I am an enthusiastic developer adept at harnessing the power of Machine Learning and Deep Learning to tackle complex problems across a range of domains.
 - With a foundation in Computer Science and practical experience in Machine Learning, I bring a blend of theoretical knowledge and hands-on skills to address real-world challenges.
@@ -6,7 +7,6 @@
 - At present, my focus is on enriching my understanding and proficiency in web development and Machine Learning, contributing to both academic and open-source projects.
 - I am committed to continuous learning and growth, aspiring to synthesize my skills into innovative and impactful solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
 
 ## 🛠 Skills
 - **Languages**: Fluent in Python; Proficient in SQL; Intermediate knowledge in C++, JavaScript, HTML, CSS, React.
