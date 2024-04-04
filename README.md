@@ -1,4 +1,5 @@
-## Hello, I'm Mohamed!  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
+## Hello, I'm Mohamed!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
 
 
 - I am an enthusiastic developer adept at harnessing the power of Machine Learning and Deep Learning to tackle complex problems across a range of domains.
