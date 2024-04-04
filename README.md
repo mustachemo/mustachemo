@@ -1,24 +1,37 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW90ZjJtNDNoaGt6aHc3aHU2bDFrM2s1dHVtZTB0dXc1dDF3dGl4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHqZycSplGWWPAI/giphy.gif" width="200">
-  <h1>👋 Hello! I'm Mohamed 🌍</h1>
-  <p>🎓 <strong>Senior at UC Merced</strong></p>
-  <p>🛠️ <em>Full Stack Developer and ML & DS Aspirant!</em></p>
-  <p>🧙 <em>Full-Stack Developer</em></p>
-  <br>
-</div>
+# Hi there, I'm [Your Name]! 👋
 
-<div align="center">
-  <h3>🚀 Current Ventures 🚀</h3>
-  
-  🧹 Building a **Data Clean-up Tool**  <br>
-  🤖 Research on **Synthetic Aperture Radar (SAR)**
-  <br>
-</div>
+## 👨‍💻 About Me
 
-<div align="center">
-  <h3>🛠️ Skills & Technologies 🧰</h3>
+I'm a Machine Learning enthusiast and a soon-to-be graduate with a B.S. in Computer Science and a strong foundation in mathematics, machine learning, and analytics. I'm passionate about creating innovative solutions using data and eagerly awaiting opportunities to dive into challenges starting May 20, 2024.
 
-  **Languages**: Python, C++, HTML, CSS, JavaScript  
-  **Technologies**: Git, Tensorflow, Flask, Webpack, Node, Express, OOP, RESTful APIs, MongDB, React, Django
-  <br>
-</div>
+## 🛠 Skills
+
+- **Languages**: Proficient in Python and SQL; Intermediate knowledge in C++ and JavaScript.
+- **Technologies**: Experienced with Pandas, NumPy, TensorFlow, Git, PostgreSQL, Scikit-learn, Keras, SQLite, LaTeX, Flask, Django.
+- **Soft Skills**: Excellent communicator, creative problem-solver, team-oriented, and bilingual in English & Arabic.
+
+## 🎓 Education
+
+- **M.Sc. in Analytics** - Specializing in Computational Data at Georgia Institute of Technology (Start Aug 2024)
+- **B.Sc. in Computer Science & Engineering** - University of California, Merced (Expected May 2024)
+
+## 💼 Experience
+
+- **Machine Learning Researcher** at UC Merced, Applied Math Department. (current)
+- **Backend Developer** for HackMerced.
+- **Software Engineering Intern** at NeuroLeap Co.
+
+## 🚀 Projects
+
+- **Comprehensive and Integrity-Conscious Data Clean-up Application**: A tool designed with Python, Pandas, Flask, and Dash for seamless data migration and management.
+
+## 🏅 Achievements
+
+- Co-authored a paper on Synthetic Aperture Imaging using Convolutional Neural Networks.
+- Awarded the DeepLearning.AI TensorFlow Developer Professional Certificate.
+
+## 🤝 Connect with Me
+
+- 💼 [LinkedIn](#) _(https://www.linkedin.com/in/mohamed-hasan-4b850418a/)_
+
+Feel free to browse my repositories to get a better idea of my work, and don't hesitate to reach out if you think we could collaborate on a project or if you have an opportunity that aligns with my interests and skills!
