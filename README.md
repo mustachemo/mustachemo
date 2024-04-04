@@ -25,9 +25,8 @@ opportunities in data-related roles in a collaborative and challenging environme
 
 ## 🚀 Projects
 
-- [Comprehensive and Integrity-Conscious Data Clean-up Application](https://github.com/mustachemo/data-clean-up) - A Python-based tool for facilitating data migration with an emphasis on data integrity.
-- [Data Runner](https://github.com/mustachemo/data-runner) - Dive into the repository to explore this project further.
-- [Destination Manager](https://github.com/mustachemo/destination-manager) - A management system to streamline destination logistics.
+- [Data Runner](https://github.com/mustachemo/data-runner) - A Python-Pandas-based tool for facilitating data migration with an emphasis on data integrity..
+- [Destination Manager](https://github.com/mustachemo/destination-manager) - A management system to simplify vacation ideas, a tripadvisor miniclone!
 - [NASA Projects Dashboard](https://github.com/mustachemo/NASA-projects-dashboard) - An interactive dashboard showcasing various NASA projects for the open-science competition.
 
 
