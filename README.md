@@ -9,17 +9,17 @@
 - Availability to start on May 20, 2024.
 
 
-### 🛠 Skills
+### Skills
 - **Languages**: Fluent in Python; Proficient in SQL; Intermediate knowledge in C++, JavaScript, HTML, CSS, React.
 - **Technologies**: Experienced with Pandas, NumPy, TensorFlow, Git, PostgreSQL, Scikit-learn, Keras, SQLite, LaTeX, Flask, Django.
 - **Soft Skills**: Excellent communicator, creative problem-solver, team-oriented, and bilingual in English & Arabic.
 
-### 🎓 Education
+### Education
 
 - **M.Sc. in Analytics** - Specializing in Computational Data at Georgia Institute of Technology (Start Aug 2024)
 - **B.Sc. in Computer Science & Engineering** - University of California, Merced (Expected May 2024)
 
-### 💼 Experience
+### Experience
 
 - **Machine Learning Researcher** at UC Merced, Applied Math Department. (current)
 - **Backend Developer** for HackMerced.
