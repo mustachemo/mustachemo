@@ -30,7 +30,7 @@
 ---
 ### Projects
 
-| Project                          | Description                                                              | Repo              |
+| Title                            | Description                                                              | Repo              |
 | -------------------------------- | ------------------------------------------------------------------------ | ----------------- |
 | Data Runner                      | A Python-Pandas-based tool for facilitating data migration.              | [GitHub](https://github.com/mustachemo/data-runner)       |
 | Destination Manager              |  A management system to simplify vacation ideas.                         | [GitHub](https://github.com/mustachemo/destination-manager)       |
