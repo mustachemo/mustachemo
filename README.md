@@ -5,8 +5,7 @@
 - Graduating in May 2024 with a B.S. in Computer Science; progressing to an M.S. in Computational Analytics at Georgia Tech.
 - Solid foundation in statistics, linear algebra, calculus, and machine learning.
 - Proficient in using data libraries and machine learning frameworks.
-- Actively seeking opportunities in data-related roles within collaborative and challenging environments.
-- Availability to start on May 20, 2024.
+- 👀 I’m interested in all the thing I haven't learnt.
 
 ---
 ### Education
