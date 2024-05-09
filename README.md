@@ -1,7 +1,7 @@
 ## Hello, I'm Mohamed!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
 
-- Innovative and scientifically rigorous student with an endless aptitude for learning.
+- Innovative and scientifically rigorous graduate with an endless aptitude for learning.
 - Graduating in May 2024 with a B.S. in Computer Science; progressing to an M.S. in Computational Analytics at Georgia Tech.
 - Solid foundation in statistics, linear algebra, calculus, and machine learning.
 - Proficient in using data libraries and machine learning frameworks.
