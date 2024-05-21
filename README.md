@@ -10,8 +10,8 @@
 ---
 ### Education
 
-- **M.Sc. in Analytics** - Specializing in Computational Data at Georgia Institute of Technology (Start Aug 2024)
-- **B.Sc. in Computer Science & Engineering** - University of California, Merced (Expected May 2024)
+- **M.Sc. in Analytics** - Specializing in Computational Data at Georgia Institute of Technology (May 2026)
+- **B.Sc. in Computer Science & Engineering** - University of California, Merced (May 2024)
 
 ---
 ### Experience
