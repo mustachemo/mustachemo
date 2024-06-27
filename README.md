@@ -8,12 +8,6 @@
 - 👀 I’m interested in all the thing I haven't learned.
 
 ---
-### Education
-
-- **M.Sc. in Analytics** - Specializing in Computational Data at Georgia Institute of Technology (May 2026)
-- **B.Sc. in Computer Science & Engineering** - University of California, Merced (May 2024)
-
----
 ### Experience
 
 - **Machine Learning Integration Intern** at Turion Space. (current)
