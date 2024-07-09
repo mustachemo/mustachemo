@@ -23,8 +23,6 @@
 
 ---
 ### Projects
-Uncertainty-Quantification-in-Satellite-Image-Segmentation Public
- Python
 
 | Title                            | Description                                                              | Repo              |
 | -------------------------------- | ------------------------------------------------------------------------ | ----------------- |
