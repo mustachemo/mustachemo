@@ -10,7 +10,7 @@
 ---
 ### Experience
 
-- **Machine Learning Integration Intern** at Turion Space. (current)
+- **Machine Learning Engineer** at Turion Space. (current)
 - **Machine Learning Researcher** at UC Merced, Applied Math Department.
 - **Backend Developer** for HackMerced.
 - **Software Engineering Intern** at NeuroLeap Co.
