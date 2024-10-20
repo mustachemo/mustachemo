@@ -16,12 +16,6 @@
 - **Software Engineering Intern** at NeuroLeap Co.
 
 ---
-### Skills
-- **Languages**: Fluent in Python; Proficient in SQL; Intermediate knowledge in C++, JavaScript, HTML, CSS, React.
-- **Technologies**: Experienced with Pandas, NumPy, TensorFlow, Git, PostgreSQL, PowerBI, Scikit-learn, Keras, SQLite, LaTeX, Flask, Django.
-- **Soft Skills**: Excellent communicator, creative problem-solver, team-oriented, and bilingual in English & Arabic.
-
----
 ### Projects
 
 | Title                            | Description                                                              | Repo              |
