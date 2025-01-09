@@ -20,6 +20,7 @@
 
 | Title                            | Description                                                              | Repo              |
 | -------------------------------- | ------------------------------------------------------------------------ | ----------------- |
+| Camouflage Animal Detection      | A web app to detect camouflaged animals and characterize them            | [Github](https://github.com/mustachemo/camouflage-animal-detection) |
 | Satellite Image Segmentation     | A project for uncertainty quantification in satellite image segmentation | [GitHub](https://github.com/mustachemo/Uncertainty-Quantification-in-Satellite-Image-Segmentation)       |
 | Data Runner                      | A Python-Pandas-based tool for facilitating data migration               | [GitHub](https://github.com/mustachemo/data-runner)       |
 | Destination Manager              |  A management system to simplify vacation ideas                          | [GitHub](https://github.com/mustachemo/destination-manager)       |
