@@ -4,14 +4,6 @@
 Innovative and scientifically rigorous Machine Learning Engineer with an endless aptitude for learning.
 
 ---
-### Experience
-
-- **Machine Learning Engineer** at Turion Space. (current)
-- **Machine Learning Researcher** at UC Merced, Applied Math Department.
-- **Backend Developer** for HackMerced.
-- **Software Engineering Intern** at NeuroLeap Co.
-
----
 ### Projects
 
 | Title                            | Description                                                              | Repo              |
