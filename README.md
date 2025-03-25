@@ -1,11 +1,7 @@
 ## Hello, I'm Mohamed!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohamed-hasan-4b850418a/)
 
-- Innovative and scientifically rigorous Machine Learning Engineer with an endless aptitude for learning.
-- M.S. in Computational Analytics student at Georgia Tech.
-- Solid foundation in statistics, linear algebra, calculus, and machine learning.
-- Proficient in using data libraries and machine learning frameworks.
-- 👀 I’m interested in all the thing I haven't learned.
+Innovative and scientifically rigorous Machine Learning Engineer with an endless aptitude for learning.
 
 ---
 ### Experience
